@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Title: Blocklist
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/bernd289/adblock_lists/
+!
+!-----------------------General blocking filters-----------------------!
+||stripe.com^$domain=feedly.com
+||stripe.network^$domain=feedly.com
+||twitter.com^$domain=feedly.com
+||x.com^$domain=feedly.com
+||stripe.com^$domain=unifi.ui.com
+||stripe.network^$domain=unifi.ui.com
+@@||featuregates.org^$domain=bsky.app
+@@||statsigapi.net^$domain=bsky.app
